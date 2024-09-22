@@ -1,0 +1,21 @@
+.expense-list {
+    margin-top: 20px;
+}
+.expense-item {
+    display: flex;
+    align-items: center;
+}
+form{
+    max-width: 500px;
+    border: 1px solid black;
+    margin: 20px;
+    padding: 30px;
+    border-radius: 2px;
+    background-color: burlywood;
+}
+label{
+    margin: 10px 0 10px 0px;
+}
+button{
+    margin-left: 5px;
+}
